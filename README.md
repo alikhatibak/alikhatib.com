@@ -1,2 +1,2 @@
 # alikhatib.com
-Repo for the [alikhatib.com](alikhatib.com) website.
+Repo for the [alikhatib.com](www.alikhatib.com) website.
